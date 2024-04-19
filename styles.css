@@ -51,8 +51,9 @@ background-image: url(imagem\ cabeçalho.jpg);
     font-family: 'Times New Roman', Times, serif;
     border-image: 5px;
     padding: 20px;
-
+    
 }
+
 #rodape{
     height: 300x;
     /*width:300px;*/
